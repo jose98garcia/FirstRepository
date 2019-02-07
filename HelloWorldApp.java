@@ -7,5 +7,8 @@ class HelloWorldApp{
 		
 		System.out.println("Says George"); //Tracker1
 		
+		System.out.println("Hello Universe!"); //Tracker2
+		System.out.println("From Earth."); //Tracker2
+		
 	}	
 }
